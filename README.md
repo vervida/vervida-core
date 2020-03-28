@@ -39,34 +39,6 @@ If you want to get inspiration or just show something directly to your clients, 
 * [Useful Links](#useful-links)
 
 
-
-## Versions
-
-
-
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/html-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-react)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-argon-dashboard)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-angular)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/aspnet-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-asp-net)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-nodejs)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel_logo.png" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-laravel)
-
-
-
-| HTML | React | Vue | Angular |
-| --- | --- | --- | --- |
-| [![Argon Dashboard HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard.jpg)](https://www.creative-tim.com/product/argon-dashboard) | [![Argon Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/argon-dashboard-react.jpg)](https://www.creative-tim.com/product/argon-dashboard-react) | [![Vue Argon Dashboard ](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard/vue-argon-dashboard.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard) | [![Argon Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/argon-dashboard-angular.jpg)](https://www.creative-tim.com/product/argon-dashboard-angular)
-
-| Asp.net | Node.js | Laravel |
-| --- | --- | --- |
-| [![Argon Dashboard Asp.net](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-aspnet/argon-dashboard-aspnet.jpg)](https://www.creative-tim.com/product/argon-dashboard-asp-net) | [![Argon Dashboard Node.js](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-nodejs/argon-dashboard-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-nodejs) | [![Argon Dashboard Laravel](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-laravel/argon-dashboard-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel) |
-
-
-
-
-
-
 ## Demo
 
 
@@ -86,27 +58,6 @@ If you want to get inspiration or just show something directly to your clients, 
 | Maps page | Register page | Login page  |
 | --- | --- | ---  |
 | [![Maps page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/maps-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/maps.html)  | [![Register page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/register-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/register.html)  | [![Login page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/login-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/login.html)
-
-
-
-
-
-## Download and Installation
-
-- [Download from Github](https://github.com/creativetimofficial/argon-dashboard/archive/master.zip)
-- [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard)
-
-
-- Install with Npm: `npm i @creative-tim-official/argon-dashboard-free`
-
-- Install with Yarn: `yarn add @creative-tim-official/argon-dashboard-free`
-
-- Install with Composer: `composer create-project creativetimofficial/argon-dashboard-free`
-
-- Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
-
-
-
 
 
 ## Documentation
@@ -189,24 +140,10 @@ We use GitHub Issues as the official bug tracker for the Argon Dashboard. Here a
 - Licensed under MIT (https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md)
 
 
-## Useful Links
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=mk-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=mk-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=mk-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=mk-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=mk-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=mk-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=mk-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=mk-github-readme)
-
 ## Social Media
 
-- Twitter: <https://twitter.com/creativetim>
-- Facebook: <https://www.facebook.com/creativetim>
-- Dribbble: <https://dribbble.com/creativetim>
-- Google+: <https://plus.google.com/+creativetimpage>
-- Instagram: <https://www.instagram.com/creativetimofficial>
-
+- Twitter: To be Made
+- Facebook: To be Made
+- Dribbble: To be Made
+- Google+: To be Made
+- Instagram: To be Made
