@@ -61,6 +61,9 @@
       email = document.getElementById("vervida_user_email").value
       password = document.getElementById("vervida_user_password").value
       firebase.auth().createUserWithEmailAndPassword(email, password)
+      .then(function() {
+        window.location.replace("/examples/login.html")
+      })
       .catch(function(error) {
         // Handle Errors here.
         var errorCode = error.code;
