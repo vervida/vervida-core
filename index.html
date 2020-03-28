@@ -43,11 +43,42 @@
   <!-- Add Firebase products that you want to use -->
   <script src="https://www.gstatic.com/firebasejs/7.13.1/firebase-auth.js"></script>
   <script src="https://www.gstatic.com/firebasejs/7.13.1/firebase-firestore.js"></script>
-  <script src="assets/js/vervida-firebase.js"></script>
+
   <script>
-    window.onload = function() {
-      VervidaRedirectNotLoggedIn()();
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyANDxzOnUzg5xt54YoDBQgKLxHKcNoDrjM",
+      authDomain: "vervida-976d5.firebaseapp.com",
+      databaseURL: "https://vervida-976d5.firebaseio.com",
+      projectId: "vervida-976d5",
+      storageBucket: "vervida-976d5.appspot.com",
+      messagingSenderId: "725684081232",
+      appId: "1:725684081232:web:4a11398d0812f114ea3755",
+      measurementId: "G-7C46JCS99Z"
     };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+    function VervidaLoggedInUser(){
+      var user = firebase.auth().currentUser;
+
+      if (user) {
+        alert("Welcome back!")
+      } else {
+        window.location.replace("examples/register.html");
+      }
+    }
+    function VervidaSignOut(){
+      firebase.auth().signOut()
+        .then(function() {
+          window.location.replace("examples/register.html")
+        })
+        .catch(function(error) {
+          // TODO FIXME
+          alert(`Couldn't sign you out. Some Error occureed `)
+        });
+    }
+    VervidaLoggedInUser()
   </script>
 
   <!-- Sidenav -->
