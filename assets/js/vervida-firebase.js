@@ -32,7 +32,7 @@ function VervidaFirebaseSignIn(email, password){
   firebase.auth().signInWithEmailAndPassword(email, password)
   .then(function() {
     window.location.replace("/")
-    // do nothing 
+    // do nothing
   })
   .catch(function(error) {
     // Handle Errors here.
@@ -41,6 +41,7 @@ function VervidaFirebaseSignIn(email, password){
     alert(`Sign In failed. Error: ${errorMessage}`)
   })
 };
+
 
 function VervidaSignOut(){
   firebase.auth().signOut()
@@ -58,10 +59,8 @@ function VervidaRedirectNotLoggedIn(){
   firebase.auth().onAuthStateChanged(function(user) {
     if (user) {
       // proceed
-
     } else {
       window.location.replace("examples/register.html");
-      alert("Please login to continue");
     }
   });
 }
