@@ -78,5 +78,5 @@
         "type": "git",
         "url": "git+https://github.com/vervida/vervida-core.git"
     },
-    "homepage": "https://github.com/vervida/vervida-core/blob/master/LICENSE.md"
+    "homepage": "https://github.com/vervida/vervida-core/blob/master/LICENSE"
 }
