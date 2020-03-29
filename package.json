@@ -1,12 +1,12 @@
 {
-	"name": "@vervida/vervida-core",
-	"description": "Anyone can save lives",
-	"main": "gulpfile.js",
-	"author": "The Vervida Team",
-	"scripts": {
-		"start": "python -c \"import os, sys; os.system('python -m SimpleHTTPServer 3000 --bind 127.0.0.1') if sys.version_info.major==2 else os.system('python -m http.server 3000 --bind 127.0.0.1');\"",
-		"winstart": "py -c \"import os, sys; os.system('py -m SimpleHTTPServer 3000') if sys.version_info.major==2 else os.system('py -m http.server 3000 --bind 127.0.0.1');\""
-	},
+    "name": "@vervida/vervida-core",
+    "description": "Anyone can save lives",
+    "main": "gulpfile.js",
+    "author": "The Vervida Team",
+    "scripts": {
+        "start": "python -c \"import os, sys; os.system('python -m SimpleHTTPServer 3000 --bind 127.0.0.1') if sys.version_info.major==2 else os.system('python -m http.server 3000 --bind 127.0.0.1');\"",
+        "winstart": "py -c \"import os, sys; os.system('py -m SimpleHTTPServer 3000') if sys.version_info.major==2 else os.system('py -m http.server 3000 --bind 127.0.0.1');\""
+    },
     "devDependencies": {
         "browser-sync": "^2.24.4",
         "del": "^5.1.0",
