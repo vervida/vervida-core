@@ -9,6 +9,8 @@
     },
     "devDependencies": {
         "browser-sync": "^2.24.4",
+        "browserslist": "^4.11.0",
+        "decompress": "^4.2.0",
         "del": "^5.1.0",
         "gulp": "^4.0.2",
         "gulp-autoprefixer": "^7.0.1",
@@ -28,10 +30,17 @@
         "gulp-useref-plus": "0.0.8",
         "gulp-util": "^3.0.8",
         "gulp-wait": "0.0.2",
+        "js-yaml": "^3.13.1",
+        "minimatch": "^3.0.4",
+        "mkdirp": "^1.0.3",
+        "node-uuid": "^1.4.8",
+        "popper.js": "^1.16.1",
         "postcss-flexbugs-fixes": "^4.2.0",
         "pump": "^3.0.0",
+        "request": "^2.88.2",
         "run-sequence": "^2.2.1",
-        "uglify-es": "^3.3.9"
+        "uglify-es": "^3.3.9",
+        "uuid": "^7.0.2"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.3.1",
