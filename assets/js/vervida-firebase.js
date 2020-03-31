@@ -18,7 +18,7 @@ function VervidaFirebaseRegister(email, password){
 
   firebase.auth().createUserWithEmailAndPassword(email, password)
   .then(function() {
-    window.location.replace("/examples/login.html")
+    window.location.replace("/vervida/login.html")
   })
   .catch(function(error) {
     // Handle Errors here.
@@ -46,7 +46,7 @@ function VervidaFirebaseSignIn(email, password){
 function VervidaSignOut(){
   firebase.auth().signOut()
     .then(function() {
-      window.location.replace("examples/register.html")
+      window.location.replace("vervida/register.html")
     })
     .catch(function(error) {
       // TODO FIXME
@@ -60,7 +60,7 @@ function VervidaRedirectNotLoggedIn(){
     if (user) {
       // proceed
     } else {
-      window.location.replace("examples/register.html");
+      window.location.replace("vervida/register.html");
     }
   });
 }
