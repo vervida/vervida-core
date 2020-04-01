@@ -89,3 +89,16 @@ function VervidaSignInGoogle(){
     // ...
   });
 }
+
+function UpdateUserNameVervida() {
+    window.onload = function() {
+      VervidaRedirectNotLoggedIn();
+      firebase.auth().onAuthStateChanged(function(user) {
+        if (user) {
+          $.each($('.username'), function() {
+            $(this).text(user.email)
+          })
+        }
+      })
+    };
+  };
